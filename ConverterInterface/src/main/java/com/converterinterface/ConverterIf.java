@@ -1,6 +1,4 @@
-package com.company;
-
-import com.company.Converter;
+package com.converterinterface;
 
 public class ConverterIf implements Converter {
     @Override

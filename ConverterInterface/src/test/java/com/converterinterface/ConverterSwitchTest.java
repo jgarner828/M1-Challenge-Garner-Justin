@@ -1,4 +1,4 @@
-package com.company;
+package com.converterinterface;
 
 import org.junit.Test;
 

@@ -1,4 +1,4 @@
-package com.company;
+package com.rgpinheritance;
 
 public abstract class Character {
     private String name;
